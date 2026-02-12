@@ -1,12 +1,10 @@
 ---
 name: comeback-framework
-description: Transform major setbacks into the foundation for your greatest success.
-  This is the system that took Serena Williams from ranked 139th in the world, from
-  nearly dying of a pulmonary embolism, from ...
+description: Transform major setbacks into the foundation for your greatest success. This is the system that took Serena Williams from ranked 139th in the world, from nearly dying of a pulmonary embolism, from ...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - comeback-framework
 - transformation
